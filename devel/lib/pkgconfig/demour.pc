@@ -1,0 +1,8 @@
+prefix=/home/sk/workspas/demo_ur/devel
+
+Name: demour
+Description: Description of demour
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

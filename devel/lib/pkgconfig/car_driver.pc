@@ -1,0 +1,8 @@
+prefix=/home/sk/workspas/demo_ur/devel
+
+Name: car_driver
+Description: Description of car_driver
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

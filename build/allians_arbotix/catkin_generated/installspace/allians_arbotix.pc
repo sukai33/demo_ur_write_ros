@@ -1,0 +1,8 @@
+prefix=/home/sk/workspas/demo_ur/install
+
+Name: allians_arbotix
+Description: Description of allians_arbotix
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

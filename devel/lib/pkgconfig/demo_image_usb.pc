@@ -1,0 +1,8 @@
+prefix=/home/sk/workspas/demo_ur/devel
+
+Name: demo_image_usb
+Description: Description of demo_image_usb
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

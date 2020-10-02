@@ -1,0 +1,2 @@
+demo_cv:demour:usb_cam
+-DCATKIN_DEVEL_PREFIX=/home/sk/workspas/demo_ur/devel -DCMAKE_INSTALL_PREFIX=/home/sk/workspas/demo_ur/install -G Unix Makefiles

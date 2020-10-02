@@ -1,0 +1,79 @@
+{
+	"BUILD_DIR" : "/home/sk/workspas/demo_ur_write_ros/src/demour/cmake-build-debug/ur_cpp_node_autogen",
+	"CMAKE_BINARY_DIR" : "/home/sk/workspas/demo_ur_write_ros/src/demour/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/sk/workspas/demo_ur_write_ros/src/demour/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/sk/workspas/demo_ur_write_ros/src/demour",
+	"CMAKE_EXECUTABLE" : "/home/sk/CLion-2020.1.1/clion-2020.1.1/bin/cmake/linux/bin/cmake",
+	"CMAKE_SOURCE_DIR" : "/home/sk/workspas/demo_ur_write_ros/src/demour",
+	"HEADERS" : [],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/sk/workspas/demo_ur_write_ros/src/demour/cmake-build-debug/ur_cpp_node_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/sk/workspas/demo_ur_write_ros/src/demour/cmake-build-debug/ur_cpp_node_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_PRINTSUPPORT_LIB",
+		"QT_WIDGETS_LIB",
+		"ROSCONSOLE_BACKEND_LOG4CXX",
+		"ROS_BUILD_SHARED_LIBS=1",
+		"ROS_PACKAGE_NAME=\"demour\""
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/sk/workspas/demo_ur_write_ros/src/demour/cmake-build-debug",
+		"/home/sk/workspas/demo_ur_write_ros/src/demour",
+		"/opt/ros/melodic/include",
+		"/opt/ros/melodic/include/xmlrpcpp",
+		"/usr/include/opencv",
+		"/usr/include/x86_64-linux-gnu/qt5",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore",
+		"/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include/x86_64-linux-gnu/qt5/QtGui",
+		"/usr/include/x86_64-linux-gnu/qt5/QtWidgets",
+		"/usr/include/x86_64-linux-gnu/qt5/QtPrintSupport",
+		"/usr/include/x86_64-linux-gnu/qt5/QtNetwork",
+		"/usr/include",
+		"/usr/include/c++/7",
+		"/usr/include/x86_64-linux-gnu/c++/7",
+		"/usr/include/c++/7/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/7/include",
+		"/usr/local/include",
+		"/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed",
+		"/usr/include/x86_64-linux-gnu"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : true,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/home/sk/CLion-2020.1.1/clion-2020.1.1/bin/cmake/linux/share/cmake-3.16/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/sk/workspas/demo_ur_write_ros/src/demour/cmake-build-debug/ur_cpp_node_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 6,
+	"PARSE_CACHE_FILE" : "/home/sk/workspas/demo_ur_write_ros/src/demour/cmake-build-debug/CMakeFiles/ur_cpp_node_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"SETTINGS_FILE" : "/home/sk/workspas/demo_ur_write_ros/src/demour/cmake-build-debug/CMakeFiles/ur_cpp_node_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "/home/sk/workspas/demo_ur_write_ros/src/demour/src/ur_cpp.cpp", "Mu" ]
+	],
+	"VERBOSITY" : 0
+}
